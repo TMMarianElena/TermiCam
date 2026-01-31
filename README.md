@@ -6,9 +6,7 @@
 ![Matrix](https://img.shields.io/badge/vibe-Cyberpunk-green?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)
 
-<p align="center">
-  <img src="assets/termicam.png" alt="TermiCam" width="600">
-</p>
+<p align="center"> <img src="termicam.png" width="600" title="TermiCam"> </p>
 
 **TermiCam** is a high-performance computer vision utility that transforms live webcam streams into high-fidelity ASCII art. Utilizing **OpenCV** for frame processing and **ANSI escape sequences** for color rendering, it features a custom **Matrix Shader**, **Motion Blur Accumulation**, and **Audio-Reactive** pulse logic—all running natively in your command line.
 
